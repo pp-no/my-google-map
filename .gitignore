@@ -1,0 +1,7 @@
+# ここに本物の秘密を置く（追跡しない）
+js/config.js
+
+# 念のため OS/エディタの生成物
+.DS_Store
+Thumbs.db
+*.log
